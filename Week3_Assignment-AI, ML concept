@@ -1,0 +1,10 @@
+AI  is a technolgy that allows machines to stimulate human's behavior of sophiscated cognitive, learing, problem solving. 
+By mirror human brains neuron work, the machine can execute similar human behavirs of searching, listening, understanding, decision-making, driving. 
+The most popular AI application is Google searching engine, Siri voice recognition, Tesla self-driving system, and Apple face recognize system,etc.
+
+Machine learning is a sub field of AI, it mainly focus on statisctical data processed by computer algorithms, by build model on sample data to make perdictions and decisions.
+It also refers to predictive analytics in the real business world.
+
+Supervised learning is one of the approaches of machine learning, the example inputs and desired outputs will be given to the computer, and the computer will acquire the a general
+rule maps from the example. The example is known as training example, the algorithms build a mathematical model through training example, the goal is to correctly determine the 
+outputs from inputs. There are 3 types of supervised learning algorithms:   active learning, classification and regression. 
